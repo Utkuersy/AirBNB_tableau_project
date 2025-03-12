@@ -26,12 +26,5 @@ This project includes the following key analyses:
 2. **Open in Tableau**: Open the files inside the `tableau_dashboard/` folder using Tableau.
 3. **Customize & Analyze**: Modify the analysis and visualizations as needed.
 
-## 📝 Contributing
-To contribute to this project:
-- **Report Issues**: Share any issues in the [Issues](https://github.com/Utkuersy/AirBNB_tableau_project/issues) section.
-- **Add New Features**: Develop new features and submit a **Pull Request**.
-- **Provide Feedback**: Share your thoughts and suggestions about the project.
 
-## 📧 Contact
-If you have any questions or suggestions, feel free to reach out via GitHub.
 
